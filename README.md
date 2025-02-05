@@ -2,6 +2,12 @@
 ![Portadilla](images/portada.png "Urban fluctuations in the north-central region of the Nile Delta")
 These set of files represent a sum of traceable riverine features Hinojosa-Balino (2022) could identify using historical and archaeological mapping, geophysics, boreholes and published material irrespective of the temporality of the river channel (e.g. defunct channels also appear)
 
+If you want to use this dataset, please take a look at the Zenodo webpage:
+- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14812208.svg)](https://doi.org/10.5281/zenodo.14812208)
+
+or take this citation in APA format as reference:
+- Hinojosa-Baliño, I. (2025). *Nile Delta Palimpsestual River Network (PRN)* (v1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.14812208
+
 ## Data
 
 The data offered here was created as part of the PhD project Hinojosa-Baliño, I. (2022). Urban fluctuations in the north-central region of the Nile Delta: 4000 years of river and urban development in Egypt. [Doctoral, Durham University]. The these can be downloaded from [Durham eTheses](http://etheses.dur.ac.uk/14524/).
